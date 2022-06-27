@@ -9,7 +9,7 @@ const App = () => {
       <ProductCard
         product={{
           id: "1",
-          title: "Coffee Mug de verdad",
+          title: "Coffee Mug de verdad!",
         }}
         initialValues={{
           count: 0,
